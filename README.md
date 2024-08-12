@@ -5,6 +5,11 @@ This project is a simple Todo List application built with React and Redux. It al
 ## Live Demo
 You can view the live demo of the application [here](https://pk1331.github.io/TodoList-Using-Redux-React/)
 
+
+
+![todolist_with-react_redux](https://github.com/user-attachments/assets/b90f9bfa-0c18-4d99-ab3a-61528a06d36b)
+
+
 ## Table of Contents
 
 - Features
